@@ -1,0 +1,23 @@
+ 1 #1.安装服务
+ 2 
+ 3 python PythonService.py install
+ 4 
+ 5 #2.让服务自动启动
+ 6 
+ 7 python PythonService.py --startup auto install 
+ 8 
+ 9 #3.启动服务
+10 
+11 python PythonService.py start
+12 
+13 #4.重启服务
+14 
+15 python PythonService.py restart
+16 
+17 #5.停止服务
+18 
+19 python PythonService.py stop
+20 
+21 #6.删除/卸载服务
+22 
+23 python PythonService.py remove
