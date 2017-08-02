@@ -1,0 +1,5 @@
+03-10 13:45 root         INFO     开始爬行！
+03-10 13:45 requests.packages.urllib3.connectionpool INFO     Starting new HTTP connection (1): 10.78.13.168
+03-10 13:46 root         INFO     这个页面没有body=================>http://10.78.13.168/sdmp/versionControl/findAllVersionControls
+03-10 13:47 root         INFO     页面分析完毕，一共有682g个页面.
+03-10 13:47 root         INFO     结束爬行！
